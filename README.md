@@ -1,14 +1,14 @@
 # 2022Fall_MachineLearningFinal
 
 ## Environments
-Using this command to install dependencies
+Using this command to install packages
 
 `pip install -r requirements.txt`
 
 ## Reproducing Submission
 To reproduce my submission, please do the follow steps,
 
-1. [Installation](#environments)
+1. Installation packages
 2. To get model weights, you can either
   - Run 0811280_final_train.ipynb to generate model weights
   - [Download model weights](https://drive.google.com/drive/folders/1PUV47w0C8oUh-Qsj1FPbYUJ4heBZqP3z?usp=share_link)
