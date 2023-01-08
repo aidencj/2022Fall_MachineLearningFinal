@@ -1,6 +1,7 @@
 # 2022Fall_MachineLearningFinal
 
 ## Environments
+Python version: 3.7.12
 Using this command to install packages
 
 `pip install -r requirements.txt`
